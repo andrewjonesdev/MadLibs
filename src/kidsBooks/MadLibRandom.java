@@ -39,7 +39,7 @@ public class MadLibRandom
 		int mi   = 0 + (int)(Math.random()* males.length       ); // male
 		int fi   = 0 + (int)(Math.random()* females.length     ); // female
 		int ai1  = 0 + (int)(Math.random()* adjectives.length  ); // adjective 1
-		int ai2  = 0 + (int)(Math.random()* adjectives.length  ); // adjectuve 2
+		int ai2  = 0 + (int)(Math.random()* adjectives.length  ); // adjective 2
 		int vi1  = 0 + (int)(Math.random()* verbs_pt.length    ); // past-tense verb 1
 		int ni1  = 0 + (int)(Math.random()* nouns.length       ); // singular noun 1
 		int numi = 0 + (int)(Math.random()* numbers.length     ); // number
